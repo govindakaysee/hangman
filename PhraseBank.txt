@@ -1,0 +1,4 @@
+char *PhraseBank[] = {"The Tallest mountain is Everest","Let you emotions flow", "I want to express myself","The world is going to rise again", "Blue is the color", "I love Chelsea FC", "(You Gotta) Fight for Your Right (To Party)", "Trust yourself", "Learn Today Lead Tomorrow", "Don't count your chicken before they are hatched", ""};
+
+
+
